@@ -13,7 +13,7 @@
 * 회의명: SDN/NFV 포럼 2016년 제1회 ONOS/CORD WG 회의
 * 일시: 2016.10.25 (화), 14:00 ~ 18:00
 * 장소: ETRI 서울창업공작소 중회의실
-* 참석자: ONOS/CORD WG 회의 등 총 25명
+* 참석자: ONOS/CORD WG 회원 등 총 25명
 
 ## 발표 목차 (Table of Contents)
 

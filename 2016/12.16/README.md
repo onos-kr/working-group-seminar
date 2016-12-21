@@ -13,7 +13,7 @@
 * 회의명: SDN/NFV 포럼 2016년 제2회 ONOS/CORD WG 회의
 * 일시: 2016.12.16 (금), 14:00 ~ 18:00
 * 장소: 서울 중구 을지로2가 삼화타워 3층 ROOM 3
-* 참석자: ONOS/CORD WG 회의 등 총 25명
+* 참석자: ONOS/CORD WG 회원 등 총 25명
 
 ## 발표 목차 (Table of Contents)
 
