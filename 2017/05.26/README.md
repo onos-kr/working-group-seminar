@@ -16,6 +16,9 @@
 * 장소: 서울 서초구 서초대로 77길 23, 승원빌딩 3, 4층, 세미나실 4번
 * 참석자: ONOS/CORD WG 회원 등 총 21명
 
+## Program
+<img src="https://github.com/onos-kr/working-group-seminar/raw/master/2017/05.26/program.png" width="800">
+
 ## 발표 목차 (Table of Contents)
 
 * [POSTECH - Jian Li] [Updates on ONS and ONOS Mini-Summit](https://docs.google.com/viewer?url=https://github.com/onos-kr/working-group-seminar/raw/master/2017/05.26/presentation/03.%20%5BPOSTECH-Jian%20Li%5D%20pdates%20on%20ONS%20and%20ONOS%20Mini-Summit.pdf)
