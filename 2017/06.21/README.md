@@ -15,4 +15,4 @@
 * 일시: 2017.06.21 (수), 14:00 ~ 18:00
 
 ## Program
-<img src="https://github.com/onos-kr/working-group-seminar/raw/master/2017/06.21/program.png" width="800">
+<img src="https://github.com/onos-kr/working-group-seminar/raw/master/2017/06.21/program.jpg" width="800">
